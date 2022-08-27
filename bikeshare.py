@@ -179,7 +179,7 @@ def user_stats(df, city):
 
 
     if city == 'chicago':
-        # Display counts of gender
+        # TO DO:Display counts of gender
         print("Gender and counts in chicago")
         counts_of_gender = df['Gender'].value_counts()
         print(counts_of_gender)
