@@ -12,6 +12,7 @@ The following software requirements are needed for this project :
 - A text editor, like Sublime or Atom.
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
 
+
 ## The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -53,5 +54,9 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 - counts of each gender (only available for NYC and Chicago)
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+## Data Files
 
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
